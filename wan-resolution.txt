@@ -7,5 +7,4 @@ List of projects
 -> SHS Monitoring System
 -> PLT System
 -> UCUA Reporting System V2
--> Asset Tracking System
 
